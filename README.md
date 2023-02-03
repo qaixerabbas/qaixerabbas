@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Qaiser @qaixerabbas
 - 👀 I’m interested in Deep Learning, Computer Vision, Artificial Intelligence, Machine Learning and and Medical Image Analysis.
 - 🌱 I’m currently working on Machine Learning and Computer Vision
-- 📫 How to reach me 
-- 📧 mqaiser617@gmail.com
-- 📞 [Telegram](https://t.me/username/caesarhun)
+- 📫 How to reach me 📞 [Telegram](https://t.me/username/caesarhun)
