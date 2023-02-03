@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on Machine Learning and Computer Vision
 - 📫 How to reach me 
 - 📧 mqaiser617@gmail.com
-- 📞 [Telegram]([]t.me](https://t.me/username/caesarhun)
+- 📞 [Telegram](https://t.me/username/caesarhun)
