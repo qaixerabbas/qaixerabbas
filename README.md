@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email :grinning:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am a big fan of Naruto and Death Note :cupid:
-- 
 <!-- 
 - 👋 Hi, I’m Qaiser @qaixerabbas
 - 👀 I’m interested in Deep Learning, Computer Vision, Artificial Intelligence, Machine Learning and and Medical Image Analysis.
