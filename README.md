@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning, Computer Vision and NLP.
 - 🌱 I’m currently learning MLOps and Living a Happy Satisfied Life.
 - 👯 I’m looking to collaborate on computer vision and medical image analysis.
-- 💬 Ask me about Python, Research (CV, ML, MedIA) and 
+- 💬 Ask me about Python, Research (CV, ML, MedIA) and Philosophy + Human Psychology.
 - 📫 How to reach me: email :grinning:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am a big fan of Naruto and Death Note :cupid:
