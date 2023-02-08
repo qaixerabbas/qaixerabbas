@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
-![](https://komarev.com/ghpvc/?username=qaixerabbas&color=blueviolet&label=Profile+Views)
+<!-- ![](https://komarev.com/ghpvc/?username=qaixerabbas&color=blueviolet&label=Profile+Views) -->
 <!--
 **qaixerabbas/qaixerabbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
