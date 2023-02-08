@@ -14,7 +14,7 @@
 <img alt="@qaiserabbas0 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
-
+<p>
 - 🔭 I’m currently working on Machine Learning, Computer Vision and NLP @ [SDSol Technologies](https://sdsol.com/).
 - 🌱 I’m currently learning MLOps and Living a Happy Satisfied Life.
 - 👯 I’m looking to collaborate on computer vision and medical image analysis.
@@ -22,6 +22,7 @@
 - 📫 How to reach me: email :grinning:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am a big fan of Naruto and Death Note :cupid:
+  </p>
 <!-- 
 
 GITHUB STATS => https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true
