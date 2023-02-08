@@ -15,7 +15,7 @@
 </a>
 </div>
 
-<div align="center">
+<div align="left">
 
 - 🔭 I’m currently working on Machine Learning, Computer Vision and NLP @ [SDSol Technologies](https://sdsol.com/).
 - 🌱 I’m currently learning MLOps and Living a Happy Satisfied Life.
