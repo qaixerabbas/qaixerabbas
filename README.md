@@ -1,6 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="24px">
-![](https://komarev.com/ghpvc/?username=qaixerabbas&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
+<p align="center">
+![](https://komarev.com/ghpvc/?username=qaixerabbas&color=blueviolet&style=for-the-badge&label=Profile+Views)
 <a href="https://www.linkedin.com/in/qaixerabbas/">
 <img alt="Qaiser Abbas | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -10,6 +11,7 @@
 <a href="https://www.instagram.com/qaiserabbas0">
 <img alt="@qaiserabbas0 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+  </p>
 <!--
 **qaixerabbas/qaixerabbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
