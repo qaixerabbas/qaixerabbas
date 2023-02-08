@@ -15,7 +15,7 @@
 </a>
 </div>
 
-<div align="left">
+
 
 - 🔭 I’m currently working on Machine Learning, Computer Vision and NLP @ [SDSol Technologies](https://sdsol.com/).
 - 🌱 I’m currently learning MLOps and Living a Happy Satisfied Life.
@@ -25,7 +25,7 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am a big fan of Naruto and Death Note :cupid:
 
-<div>
+
 <!-- 
 
 GITHUB STATS => https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true
