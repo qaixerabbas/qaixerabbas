@@ -23,7 +23,7 @@
 - 💬 Ask me about Python, Research (CV, ML, MedIA) and Philosophy + Human Psychology.
 - 📫 How to reach me: email :grinning:
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I am a big fan of Naruto and Death Note :cupid:
+- ⚡ Fun fact: Qaisar (Arabic: قيصر) is the Arabic version of the name Caesar and it is used as a given name in Arabia. The Roman and later Byzantine emperors were called Qaisar-e-Rum (Caesar of Rome) by the Arabs and Persians.
 </div>
 
 <!-- 
