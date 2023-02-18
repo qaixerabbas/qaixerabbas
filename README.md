@@ -6,7 +6,7 @@
   ![](https://komarev.com/ghpvc/?username=qaixerabbas&color=blueviolet&style=for-the-badge&label=Profile+Views)
   
 <a href="https://www.linkedin.com/in/qaixerabbas/">
-<img alt="Qaiser Abbas | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img alt="Qaiser Abbas | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/qaixer514">
 <img  alt="@qaixer514 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
