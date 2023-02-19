@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on Machine Learning, Computer Vision and NLP @ [SDSol Technologies](https://sdsol.com/).
 - 🌱 I’m currently learning MLOps and Azure for ML.
 - 👯 I’m looking to collaborate on computer vision and medical image analysis.
-- 💬 Ask me about Python, Research (CV, ML, Medical Image Analysis) and Philosophy + Human Psychology.
+- 💬 Ask me about Python, Research (CV, ML, Medical Image Analysis) and I would love to discuss Philosophy + Human Psychology.
 - 📫 How to reach me: email :grinning:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Qaisar (Arabic: قيصر) is the Arabic version of the name Caesar and it is used as a given name in Arabia. The Roman and later Byzantine emperors were called Qaisar-e-Rum (Caesar of Rome) by the Arabs and Persians.
