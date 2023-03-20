@@ -37,29 +37,17 @@
      Qaisar (Arabic: قيصر) is the Arabic version of the name Caesar and it is used as a given name in Arabia. The Roman and later Byzantine emperors were                    called Qaisar-e-Rum (Caesar of Rome) by the Arabs and Persians.
 </div>
 
+# Skills 💪🏻
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="NodeJS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+</p>
 <!-- 
 
 GITHUB STATS => https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true
 GIT CONTRIB => https://github-readme-streak-stats.herokuapp.com/?user=qaixerabbas&theme=tokyonight&hide_border=true
 MOST FAV LANGS => https://github-readme-stats.vercel.app/api/top-langs/?username=qaixerabbas&layout=compact&theme=tokyonight&hide_border=false
 
-- 👋 Hi, I’m Qaiser @qaixerabbas
-- 👀 I’m interested in Deep Learning, Computer Vision, Artificial Intelligence, Machine Learning and and Medical Image Analysis.
-- 🌱 I’m currently working on Machine Learning and Computer Vision
-- 📫 How to reach me 📞 [Telegram](https://t.me/username/caesarhun) -->
-
-<!--
-**qaixerabbas/qaixerabbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
 
