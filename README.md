@@ -55,17 +55,18 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
+	<code> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </code>
+	<code> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </code>
+	<code> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </code>
 </div>
 
 # GitHub Stats
  
  <img width="400px" width="150px" src="https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Qysr's Github Stats"/>
  <img width="400px" width="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=qaixerabbas&theme=tokyonight&hide_border=true" alt="Qysr's Github Streak"/> 
- <img width="400px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaixerabbas&hide=python&layout=compact&theme=tokyonight&hide_border=true" alt="My Github Languages"/>
+<!--  <img width="400px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaixerabbas&hide=python&layout=compact&theme=tokyonight&hide_border=true" alt="My Github Languages"/> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qaixerabbas&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qaixerabbas&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  -->
-
-
