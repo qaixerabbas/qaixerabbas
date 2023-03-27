@@ -60,9 +60,12 @@
 </div>
 
 # GitHub Stats
+<div align="center">
+
+ <img width="650px" width="200px" src="https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Qysr's Github Stats"/>
  
- <img src="https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Qysr's Github Stats"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=qaixerabbas&theme=tokyonight&hide_border=true" alt="Qysr's Github Streak"/> 
+ <img width="650px" width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=qaixerabbas&theme=tokyonight&hide_border=true" alt="Qysr's Github Streak"/> 
+ </div>
 <!--  <img width="400px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaixerabbas&hide=python&layout=compact&theme=tokyonight&hide_border=true" alt="My Github Languages"/> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
