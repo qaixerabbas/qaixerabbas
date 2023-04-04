@@ -24,6 +24,7 @@
 
 <div align="left" style="margin-top:20px;"
 
+     
 - 🔭 I’m currently working on Machine Learning, Computer Vision and NLP @ [SDSol Technologies](https://sdsol.com/).
 - 🌱 I’m currently learning MLOps and Azure for ML.
 - 👯 I’m looking to collaborate on computer vision and medical image analysis.
