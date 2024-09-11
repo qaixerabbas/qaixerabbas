@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="120" width="110">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> -->
+<!--   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" height="120" width="110"> -->
+<!--   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> -->
+<!-- </p> -->
 
 <div align="center" style="margin-bottom:20px;">
   
@@ -24,7 +24,7 @@
 <div align="left" style="margin-top:20px;"
 
      
-- 🔭 I’m currently working on Machine Learning, Computer Vision and NLP @ [SDSol Technologies](https://sdsol.com/).
+- 🔭 I’m currently working on Machine Learning, Data Science, Computer Vision and NLP @ [Octopus Digital](https://octopusdtl.com/).
 - 🌱 I’m currently learning MLOps and Cloud technologies for ML.
 - 👯 I’m looking to collaborate on computer vision and medical image analysis.
 - 💬 Ask me about Python, Research (CV, ML, Medical Image Analysis) and I would love to discuss Philosophy + Human Psychology.
