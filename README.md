@@ -24,7 +24,7 @@
 <div align="left" style="margin-top:20px; margin-bottom:-20px;"
 
      
-- 🔭 I’m currently working on Machine Learning, Data Science, Computer Vision and NLP @ [Octopus Digital](https://octopusdtl.com/).
+- 🔭 I’m currently working on Machine Learning, Data Science, Computer Vision and NLP.
 - 🌱 I’m currently learning MLOps and Cloud technologies for ML.
 - 👯 I’m looking to collaborate on computer vision and medical image analysis.
 - 💬 Ask me about Python, Research (CV, ML, Medical Image Analysis) and I would love to discuss Philosophy + Human Psychology.
