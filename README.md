@@ -60,9 +60,9 @@
 </div>
 
 <!-- # GitHub Stats -->
-<div align="center">
+<!-- <div align="center"> -->
 
- <img width="600px" width="200px" src="https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Qysr's Github Stats"/>
+ <!-- <img width="600px" width="200px" src="https://github-readme-stats.vercel.app/api?username=qaixerabbas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Qysr's Github Stats"/> -->
  
  <!-- <img width="600px" width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=qaixerabbas&theme=tokyonight&hide_border=true" alt="Qysr's Github Streak"/> 
  </div> -->
