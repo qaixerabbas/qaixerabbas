@@ -31,7 +31,7 @@
 - 📫 How to reach me: Email :grinning:
 - 😄 Pronouns: He/His/Him.
 - ⚡ Fun fact: 
-     Qaisar (Arabic: قيصر) is the Arabic version of the name Caesar and it is used as a given name in Arabia. The Roman and later Byzantine emperors were                    called Qaisar-e-Rum (Caesar of Rome) by the Arabs and Persians.
+     Qaisar (Arabic: قيصر) is the Arabic version of the name Caesar and it is used as a given name in Arabia. The Roman and later Byzantine emperors were called Qaisar-e-Rum (Caesar of Rome) by the Arabs and Persians.
 </div>
 
 # Tools and Technologies
