@@ -61,14 +61,6 @@ Machine Learning • Research • Computer Vision • Medical Imaging • Philos
 
 ---
 
-<h2 align="left">📫 Contact</h2>
-
-<p align="left">
-📧 Email: (add your email here)
-</p>
-
----
-
 <h2 align="left">⚡ Fun Fact</h2>
 
 <p align="left">
